@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Binhao Qin
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Binhao
+last_name: Qin
 
 # Status emoji
 status:
@@ -14,34 +14,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student in Electrical and Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Michigan Ann Arbor
+    url: https://umich.edu/
+  - name: University of Michigan - Shanghai Jiao Tong University Joint Institute
+    url: https://www.ji.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests includes a variety of subfields in systems, especially embedded systems, system architecture, operating systems, and distributed systems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Embedded Systems
+  - System Architecture
+  - Operating Systems
+  - Distributed Systems
+  - Formal Verification for Systems
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSE Computer Engineering
+      institution: University of Michigan Ann Arbor
+      year: 2023
+    - course: BS Electrical and Computer Engineering
+      institution: Shanghai Jiao Tong University
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "/#contact"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -71,14 +72,14 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/resume-for-work.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: "bhqin@umich.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Binhao Qin is a student of electrical and computer engineering at University of Ann Arbor and Shanghai Jiao Tong University. His research interests include embedded systems, system architecture, operating systems, and distributed systems. He is working in ROAHM Lab at Department of Robotics at University of Michigan to develop efficient GPU algorithm for safe robot motion planning.
 {style="text-align: justify;"}
