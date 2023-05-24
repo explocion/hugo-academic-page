@@ -42,7 +42,7 @@ sections:
         - title: Instructor Aide (EECS 482, Intro. to Operating Systems)
           company: CSE Division, University of Michigan
           company_url: "https://cse.engin.umich.edu/"
-          company_logo: umich
+          company_logo: umich-pms
           location: Michigan
           date_start: "2023-01-01"
           date_end: "2023-04-30"
@@ -55,7 +55,7 @@ sections:
         - title: Research Assistant
           company: ROAHM Lab, University of Michigan
           company_url: "https://www.roahmlab.com/"
-          company_logo: umich
+          company_logo: umich-pms
           location: Michigan
           date_start: "2022-05-20"
           date_end: ""
