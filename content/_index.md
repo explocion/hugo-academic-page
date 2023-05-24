@@ -39,6 +39,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Teaching Assistant
+          company: University of Michigan - Shanghai Jiao Tong University Joint Institute
+          company_url: "https://www.ji.sjtu.edu.cn/"
+          company_logo: sjtu
+          location: Shanghai
+          date_start: "2023-05-08"
+          date_end: ""
+          description: Teaching Assistant for ECE3730J, Design of Microprocessor Based Systems.
+        - title: Research Assistant
+          company: ROAHM Lab, University of Michigan
+          company_url: "https://www.roahmlab.com/"
+          company_logo: umich-pms
+          location: Michigan
+          date_start: "2022-05-20"
+          date_end: ""
+          description: Developed efficient GPU algorithm and CUDA implementation for RTD safe motion planning of bipedal robot.
         - title: Instructor Aide (EECS 482, Intro. to Operating Systems)
           company: CSE Division, University of Michigan
           company_url: "https://cse.engin.umich.edu/"
@@ -52,14 +68,6 @@ sections:
               * Holding Lab Sections
               * Holding Office Hours
               * Design and Grade Exams
-        - title: Research Assistant
-          company: ROAHM Lab, University of Michigan
-          company_url: "https://www.roahmlab.com/"
-          company_logo: umich-pms
-          location: Michigan
-          date_start: "2022-05-20"
-          date_end: ""
-          description: Developed efficient GPU algorithm and CUDA implementation for RTD safe motion planning of bipedal robot.
     design:
       columns: "2"
   - block: accomplishments
