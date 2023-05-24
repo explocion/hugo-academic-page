@@ -25,7 +25,7 @@ sections:
           icon_pack: fas
         - name: Distributed System
           description: 80%
-          icon: sever
+          icon: network-wired
           icon_pack: fas
   - block: experience
     content:
