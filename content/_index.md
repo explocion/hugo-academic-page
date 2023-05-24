@@ -22,11 +22,11 @@ sections:
         - name: Digital Design (Verilog)
           description: 100%
           icon: microchip
-          icon_pack: fab
+          icon_pack: fas
         - name: Distributed System
           description: 80%
           icon: sever
-          icon_pack: fab
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
