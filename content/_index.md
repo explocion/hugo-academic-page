@@ -39,27 +39,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ""
-          company_logo: org-gc
-          location: California
-          date_start: "2021-01-01"
-          date_end: ""
+        - title: Instructor Aide (EECS 482, Intro. to Operating Systems)
+          company: CSE Division, University of Michigan
+          company_url: "https://cse.engin.umich.edu/"
+          company_logo: umich
+          location: Michigan
+          date_start: "2023-01-01"
+          date_end: "2023-04-30"
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ""
-          company_logo: org-x
-          location: California
-          date_start: "2016-01-01"
-          date_end: "2020-12-31"
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Holding Lab Sections
+              * Holding Office Hours
+              * Design and Grade Exams
+        - title: Research Assistant
+          company: ROAHM Lab, University of Michigan
+          company_url: "https://www.roahmlab.com/"
+          company_logo: umich
+          location: Michigan
+          date_start: "2022-05-20"
+          date_end: ""
+          description: Developed efficient GPU algorithm and CUDA implementation for RTD safe motion planning of bipedal robot.
     design:
       columns: "2"
   - block: accomplishments
