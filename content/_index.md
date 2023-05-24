@@ -15,18 +15,18 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
+        - name: C/C++
           description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          icon: c
+          icon_pack: fab
+        - name: Digital Design (Verilog)
+          description: 100%
+          icon: microchip
+          icon_pack: fab
+        - name: Distributed System
+          description: 80%
+          icon: sever
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
